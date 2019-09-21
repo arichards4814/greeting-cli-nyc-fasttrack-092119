@@ -6,4 +6,3 @@ require_relative "../lib/greeting.rb"
 puts "Hello, please input your name"
 name = gets.strip
 
-puts "Hello, #{name} how are you?"
